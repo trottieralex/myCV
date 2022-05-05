@@ -1,0 +1,11 @@
+name: "my_CV"
+navbar:
+  left:
+    - text: "CV"
+      href: index.html
+    - text: "About"
+      href: about.html
+      
+output:
+  html_document:
+    theme: darkly
