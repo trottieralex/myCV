@@ -1,5 +1,5 @@
 ---
-title: CV test2
+title: Curriculum Vitae
 
 date: 2022-05-05
 
@@ -10,4 +10,19 @@ output:
     html_document
 ---
 
-Website here soon
+Thank you for looking at my CV. <br>
+You can choose English or French above. <br>
+
+It is simply a general 2-pager versions. <br> 
+I am happy to provide more details and complete experience on demand: <br>
+a_trottier@outlook.com
+
+
+***
+
+Merci de prendre le temps de regarder mon cv. <br>
+Vous pouvez choisir Français ou Anglais ci-haut. <br>
+
+Il s'agit d'une version simplifiée de deux pages. <br>
+Pour plus de détails: <br>
+a_trottier@outlook.com

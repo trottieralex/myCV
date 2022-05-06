@@ -9,4 +9,5 @@ navbar:
       href: cv_fr.html
 output:
   html_document:
-    theme: darkly
+    theme: journal
+    
