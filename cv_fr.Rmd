@@ -1,0 +1,249 @@
+---
+title: "Alexandre Trottier - Resume"
+author: Alexandre Trottier
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> a_trottier@outlook.com
+- <i class="fa fa-github"></i> [github.com/trottieralex](https://github.com/trottieralex)
+- <i class="fa fa-phone"></i> 1-581-307-8790
+
+
+Compétences {#skills}
+--------------------------------------------------------------------------------
+
+Excellentes capacités d'adaptation et d'esprit critique
+
+Motivé par un environnement multidisciplinaire
+
+**Niveau avancé/supérieur:** R, suite Office 
+
+**Intermédiaire:** Python, Wordpress, Google analytics, HTML/CSS, Github, Tableau, etc.
+
+**Connaissance de:** SQL, VBA, JS, Power BI et plusieurs autres
+
+
+Langues {#languages}
+--------------------------------------------------------------------------------
+
+Français - supérieur, langue maternelle
+
+Anglais - avancé, langue principale
+
+Espagnol - base
+
+
+Mention {#disclaimer}
+--------------------------------------------------------------------------------
+
+Ce CV a été fait avec la bibliothèque R [**pagedown**](https://github.com/rstudio/pagedown).
+
+Dernière mise à jour: `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Alexandre Trottier {#title}
+--------------------------------------------------------------------------------
+
+***
+Éducation {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Université McGill
+
+Doctorat en Médecine de Famille et Soins Primaires
+
+Montréal, Canada
+
+2022, inachevé
+
+Thèse: Évaluation de programmes radio sur la planification familiale
+
+
+### Université de Montréal
+
+DESS en journalisme
+
+Montréal, Canada
+
+2014
+
+Focus: Journalisme scientifique et journalisme de données
+
+
+### Université Laval
+
+Msc en Physiologie-Endocrinologie (Chimie médicinale)
+
+Québec, Canada
+
+2014
+
+Thèse: Développement médicament pour endométriose et cancer du sein
+
+
+### Université de Sherbrooke
+
+Bsc en Pharmacologie
+
+Sherbrooke, Canada
+
+2011
+
+Focus: Chimie médicinale et Santé des femmes 
+
+
+
+Expérience professionnelle {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Coordinateur des communications scientifiques
+
+Centre C3i
+
+Montréal, Canada
+
+2018 - 2021
+
+::: concise
+- Administrer le site web 
+- "Web Analitics" 
+:::
+
+
+### Auxiliaire d’enseignement - Gestion de programme en santé mondiale
+
+Université McGill
+
+Montréal, Canada
+
+2018 - 2021
+
+::: concise
+- Contribuer à l'enseignement
+- Aider les étudiants
+:::
+
+
+### Assistant de laboratoire
+
+Institut de recherche du Centre universitaire de santé McGill
+
+Montréal, Canada
+
+2015 - 2017
+
+::: concise
+- Contribution à divers projets
+- Amélioration de la gestion
+:::
+
+
+### Historique complet de formation et de travail sur demande
+
+N/A
+
+N/A
+
+
+Exemples de publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Data journalism’s actors, practices and skills: A case study from Quebec.
+
+Journalism, 17(1), 66-84
+
+2016
+
+N/A
+
+Tabary, C., Provost, A. M., & <span style="text-decoration:underline">**Trottier, A.**</span> <br> Liens pour l'article: [Journal](https://journals.sagepub.com/doi/10.1177/1464884915593245) | 
+[Research Gate](https://www.researchgate.net/publication/281807571_Data_journalism%27s_actors_practices_and_skills_A_case_study_from_Quebec)
+
+
+
+### Identification of a First Enzymatic Activator of a 17β-Hydroxysteroid Dehydrogenase.
+
+ACS chemical biology, 9(8), 1668-1673
+
+2014 
+
+N/A
+
+<span style="text-decoration:underline">**Trottier, A.**</span>, Maltais, R., & Poirier, D. <br> Liens pour l'article: [Journal](https://pubs.acs.org/doi/10.1021/cb500109e) |
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/24910887/) | 
+[Research Gate](https://www.researchgate.net/publication/262940742_Identification_of_a_First_Enzymatic_Activator_of_a_17b-Hydroxysteroid_Dehydrogenase)
+
+
+### Insight into the mode of action and selectivity of PBRM, a covalent steroidal inhibitor of 17β-hydroxysteroid dehydrogenase type 1
+
+Biochem. Pharmacol., 144:149-161
+
+2017
+
+N/A
+
+<span style="text-decoration:underline">**Trottier, A.**</span>, Maltais, R., Ayan, D., Barbeau, X., Roy, J., Perreault, M., Poulin, R., Lagüe, P., & Poirier D. <br> Liens pour l'article: [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0006295217305312?via%3Dihub) |
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/28800957/) | 
+[Research Gate](https://www.researchgate.net/publication/319013219_Insight_into_the_mode_of_action_and_selectivity_of_PBRM_a_covalent_steroidal_inhibitor_of_17b-hydroxysteroid_dehydrogenase_type_1)
+
+
+### Improving the long-term impact evaluation of interventions for better family planning use
+
+Poster presented at the Global Health Night, McGill Global Health Programs
+
+2019
+
+N/A
+
+<span style="text-decoration:underline">**Trottier, A.**</span>, Schuster, T., & Bergevin, Y. <br> Website adaptation [available here](https://trottieralex.github.io/posterGHnight_v4/)
+
+
+### Autres publications disponibles sur demande
+
+- 5 autres articles scientifiques publiés
+- 2 manuscrits en cours d'écriture
+- Productions journalistiques (articles, blogs et programmes radio)
+
+N/A
+
+
+Autres {data-icon=folder-open}
+--------------------------------------------------------------------------------
+
+### Bourses d'étude 
+2018-2021: FRQS - Formation de doctorat <br>
+2012-2014: FRQS - Formation de maîtrise <br>
+2011: CREMOGH (Département) <br>
+2010: FMSS stagiaire 1er cycle (faculté) <br>
+2009: FRQS - Initiation à la recherche au 1er cycle
+
+N/A
+
+### Distinctions
+2013: présentation sélectionnée au symposium RQRM
+2010: Honeur académique RSEQ, étudiant-athlète
+
+N/A
+
+### Engagement
+2018: Co-fondateur "Spell your Science" - initiative de communication pour scientifiques
+2009-2011: Varsity Rugby
+2009-2013: VP aux affaires externes (diverses associations)
+
+N/A

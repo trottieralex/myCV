@@ -5,7 +5,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-      
+    - text: "Franco"
+      href: cv_fr.html
 output:
   html_document:
     theme: darkly
