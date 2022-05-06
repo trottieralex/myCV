@@ -3,9 +3,9 @@ navbar:
   left:
     - text: "CV"
       href: index.html
-    - text: "About"
-      href: about.html
-    - text: "Franco"
+    - text: "English"
+      href: cv_eng.html
+    - text: "Français"
       href: cv_fr.html
 output:
   html_document:
